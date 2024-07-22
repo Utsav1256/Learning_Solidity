@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/helo.sol": "MyFirstContract"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/helo.sol": {
+			"keccak256": "0xc818da79cd250e5ae6c9c3f9637691a5f50b9ef7d6a76153f211f6bf4ddebee6",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://7171a081a58a318abc86e0312b02fb416dc6e1356703fcd74c2b6e13244bcc92",
+				"dweb:/ipfs/QmNLgHdgKP7yB7fgGqNAaAgkE5DkoxC388BNaXjhCgy3Co"
+			]
+		}
+	},
+	"version": 1
+}
